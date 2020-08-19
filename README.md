@@ -1,4 +1,4 @@
-# ifad-frontend
+# IFAD Front-end side
 
 ## Project setup
 ```
@@ -18,6 +18,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Note:
+```
+Output dapat dihapus, itu hanya mengetes apakah dapat mengirim POST Request 
 ```
 
 ### Customize configuration
